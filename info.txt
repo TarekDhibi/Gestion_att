@@ -1,0 +1,17 @@
+essential.css
+menu colors : 
+nav>li>a : search : pour changer la couelru de menu <white>
+nav>li>a:hover{text-decoration:none;background-color:black} : changer la couelru de block 
+.open>a:hover{background-color:#eee;border-color:#337ab7} : changer la couleur de background en hover
+dropdown-menu>li>a:hover{color:#262626;text-decoration:none;background-color:red} : couleur de drop down menu
+
+
+
+
+
+
+
+
+
+
+
